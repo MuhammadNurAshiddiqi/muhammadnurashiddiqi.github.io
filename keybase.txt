@@ -1,0 +1,53 @@
+https://keybase.io/akulohbulin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am muhammadnurashiddiqi on github.
+  * I am akulohbulin (https://keybase.io/akulohbulin) on keybase.
+  * I have a public key ASAIv1pnTV3lOiWb1Qohxwh5OYtis6G41IZrarA7F_bQMQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012008bf5a674d5de53a259bd50a21c70879398b62b3a1b8d4866b6ab03b17f6d0310a",
+      "host": "keybase.io",
+      "kid": "012008bf5a674d5de53a259bd50a21c70879398b62b3a1b8d4866b6ab03b17f6d0310a",
+      "uid": "dfa694b3538723eb680acad8e38cfb19",
+      "username": "akulohbulin"
+    },
+    "merkle_root": {
+      "ctime": 1597169523,
+      "hash": "d274c2192b4f7d199da0ac1588683c67463bff10515a23049abc5095f0ec881b2f60b6c3f5008741719330b474c806e2e1ec2b68395c1a84e9c145544a1c7321",
+      "hash_meta": "83a1ed42c195530b861daef462012077f3669d99ffaef189986ad57b0546dee0",
+      "seqno": 17251294
+    },
+    "service": {
+      "entropy": "fhkXuIJSnGdayeYo0dFUu1xv",
+      "name": "github",
+      "username": "muhammadnurashiddiqi"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1597169564,
+  "expire_in": 504576000,
+  "prev": "45bd07e9c9ad93edd10f19d0cc07367bd4cada536190d2ecae340e6897e304cd",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCL9aZ01d5Tolm9UKIccIeTmLYrOhuNSGa2qwOxf20DEKp3BheWxvYWTESpcCBcQgRb0H6cmtk+3RDxnQzAc2e9TK2lNhkNLsrjQOaJfjBM3EIFvTXfVhmVLlEWvNLtCzSFDz1hVBVVbx80elxtvk4gaoAgHCo3NpZ8RAv+YjRbFYGMoRTYDadklzoY9LS4QpuvtsK1YTZ6UX/HOa348BTziCUZbqpoFyeoVYrcdkqfrBKqG6PG6RWdEnAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAFE5udbp08bzcOhBfi8KuRkdFeMHwV1Jddgf0ir5tyfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/akulohbulin
